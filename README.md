@@ -1,9 +1,9 @@
 In this project we will be combining four data bases in addition to scraping a website that will help researching the following topics:
 - Cause of death by Zipcode
 - correlation between any given zipcode and the cause of death
-- correlation classes between any given class and specifc type of death
+- correlation between any given class and specifc type of death
 - unemployment precentage in any given zipcode
-- Analyze the zipcode state bases on the number that it starts with 
+- Know any zipcode's state based on the number that it starts with 
 
 
 Challenges:
