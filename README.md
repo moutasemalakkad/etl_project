@@ -1,4 +1,4 @@
-In this project we will be combining four data bases in addition to scraping a website that will help researching the following topics:
+In this ETL project we will be combining four data bases in addition to scraping a website that will help researching the following topics:
 - Cause of death by Zipcode
 - correlation between any given zipcode and the cause of death
 - correlation between any given class and specifc type of death
