@@ -26,4 +26,12 @@ __In this project our goal is to form a database that contains data that can hel
    
  4. __Web-Scraping__
       - Scraped https://smartystreets.com/docs/zip-codes-101 to get groups of states that start with a certain digit.
- 
+      
+      
+      
+ # Transfroming the Data:
+ For transforming, scraping and cleaning the data We have used:
+  - Pandas library
+  - Jupyter Notebook 
+  - Numpy  
+  - Beautifulsoup for Scraping
