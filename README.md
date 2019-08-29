@@ -20,5 +20,5 @@ __In this project our goal is to form a database that contains data that can hel
    
    - Longtitudes and Latitudes that can be helpful if we decide to build visualizations such as HeatMaps
    
- 3. __Data-set from Kaggle that contains population per zipcode__
+ 3. __Data-set from Kaggle that contains population per zipcode (two data-sets 2000/2010) over 12000 rows__
    - That is crucial for all the analysis
