@@ -35,3 +35,7 @@ __In this project our goal is to form a database that contains data that can hel
   - Jupyter Notebook 
   - Numpy  
   - Beautifulsoup for Scraping
+  
+  
+ # Loading the Data:
+ We have used ORM (Object-Relational Mapping) technique to load the Data into Postgress 
