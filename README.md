@@ -15,8 +15,8 @@ __In this project our goal is to form a database that contains data that can hel
   - Average total income
   - Gross Income
  
- 2. __Downloaded a csv from Kaggle that contains close to 65000 rows this data set contains:
-   - The number of cause of death per zipcode per year (not aggregated)__
+ 2. __Downloaded a csv from Kaggle that contains close to 65000 rows this data set contains:__
+   - The number of cause of death per zipcode per year (not aggregated)
    
    - Longtitudes and Latitudes that can be helpful if we decide to build visualizations such as HeatMaps
    
