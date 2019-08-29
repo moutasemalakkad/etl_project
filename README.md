@@ -36,7 +36,7 @@ __In this project our goal is to form a database that contains data that can hel
   - Numpy  
   - Beautifulsoup for Scraping
   
-![image1.png](Images/image1.png)
+
   
   
   
